@@ -1,2 +1,2 @@
 # IronSammy
- IronSammy,Example.
+ IronSammy
